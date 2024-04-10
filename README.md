@@ -28,9 +28,7 @@ Ethereum:
 - Minimum amount: 0.01 ETH
 - Maximum amount: 10,000 ETH
 
-
 USDT:
-
 -Supported networks: TRC20, ERC20, BEP2 and BEP20
 - Supported wallets: all
 - Supported exchangers: all
