@@ -30,6 +30,7 @@ Ethereum:
 
 
 USDT:
+
 -Supported networks: TRC20, ERC20, BEP2 and BEP20
 - Supported wallets: all
 - Supported exchangers: all
